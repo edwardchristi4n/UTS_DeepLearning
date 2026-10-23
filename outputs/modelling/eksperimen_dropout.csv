@@ -1,0 +1,4 @@
+dropout,epoch_dijalankan,epoch_terbaik,val_loss,val_acc,train_acc,train_loss,gap_acc (train-val),waktu_detik
+0.0,80,65,0.2697,0.9153,0.9627,0.1278,0.0474,259.9
+0.3,52,37,0.2938,0.8644,0.9067,0.2628,0.0423,162.4
+0.5,65,50,0.2483,0.9322,0.9067,0.2626,-0.0255,195.6

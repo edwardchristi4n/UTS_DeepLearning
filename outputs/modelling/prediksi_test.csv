@@ -1,0 +1,62 @@
+file,label,asal,prediksi_Custom CNN,keyakinan_Custom CNN,prediksi_MobileNetV2,keyakinan_MobileNetV2
+bakpia_001.png,bakpia,FUJIFILM X-T30 III,bakpia,1.0,bakpia,0.9984
+bakpia_002.png,bakpia,FUJIFILM X-T30 III,bakpia,0.9999,bakpia,0.9999
+bakpia_003.png,bakpia,FUJIFILM X-T30 III,bakpia,0.9999,bakpia,1.0
+bakpia_004.png,bakpia,FUJIFILM X-T30 III,bakpia,0.9999,bakpia,0.9998
+bakpia_005.png,bakpia,FUJIFILM X-T30 III,bakpia,1.0,bakpia,0.9998
+bakpia_006.png,bakpia,FUJIFILM X-T30 III,bakpia,0.9999,bakpia,0.9998
+bakpia_007.png,bakpia,FUJIFILM X-T30 III,bakpia,1.0,bakpia,0.998
+bakpia_008.png,bakpia,FUJIFILM X-T30 III,bakpia,0.9999,bakpia,0.9981
+bakpia_009.png,bakpia,FUJIFILM X-T30 III,bakpia,0.9918,bakpia,0.9998
+bakpia_010.png,bakpia,FUJIFILM X-T30 III,bakpia,0.9942,bakpia,0.9996
+bakpia_011.png,bakpia,FUJIFILM X-T30 III,bakpia,0.9919,bakpia,0.9998
+bakpia_012.png,bakpia,FUJIFILM X-T30 III,bakpia,0.9159,sate_klathak,0.9892
+bakpia_013.png,bakpia,FUJIFILM X-T30 III,bakpia,0.9994,bakpia,0.9995
+bakpia_014.png,bakpia,FUJIFILM X-T30 III,bakpia,1.0,bakpia,0.9999
+bakpia_015.png,bakpia,FUJIFILM X-T30 III,bakpia,1.0,bakpia,1.0
+bakpia_016.png,bakpia,FUJIFILM X-T30 III,bakpia,0.9988,bakpia,0.9858
+bakpia_017.png,bakpia,FUJIFILM X-T30 III,bakpia,0.9999,bakpia,0.9995
+bakpia_018.png,bakpia,FUJIFILM X-T30 III,bakpia,0.9972,bakpia,0.998
+bakpia_019.png,bakpia,FUJIFILM X-T30 III,bakpia,0.999,bakpia,0.9998
+bakpia_020.png,bakpia,FUJIFILM X-T30 III,sate_klathak,0.6764,bakpia,0.9919
+bakpia_021.png,bakpia,FUJIFILM X-T30 III,bakpia,0.9997,bakpia,1.0
+gudeg_001.png,gudeg,internet,sate_klathak,0.6204,gudeg,1.0
+gudeg_002.png,gudeg,internet,bakpia,0.5832,gudeg,0.9049
+gudeg_003.png,gudeg,internet,gudeg,0.7262,gudeg,0.9999
+gudeg_004.png,gudeg,internet,gudeg,0.5039,gudeg,1.0
+gudeg_005.png,gudeg,internet,sate_klathak,0.5171,gudeg,0.837
+gudeg_006.png,gudeg,internet,gudeg,0.8477,gudeg,0.8479
+gudeg_007.png,gudeg,internet,gudeg,0.9998,gudeg,0.9998
+gudeg_008.png,gudeg,internet,gudeg,0.9837,gudeg,1.0
+gudeg_009.png,gudeg,samsung Galaxy A35 5G,gudeg,0.9522,gudeg,0.9949
+gudeg_010.png,gudeg,samsung Galaxy A35 5G,gudeg,0.6945,gudeg,0.7159
+gudeg_011.png,gudeg,samsung Galaxy A35 5G,gudeg,0.6143,gudeg,0.9232
+gudeg_012.png,gudeg,samsung Galaxy A35 5G,gudeg,0.8367,gudeg,0.9958
+gudeg_013.png,gudeg,samsung Galaxy A35 5G,gudeg,0.8666,gudeg,0.9996
+gudeg_014.png,gudeg,samsung Galaxy A35 5G,gudeg,0.5093,gudeg,0.9985
+gudeg_015.png,gudeg,samsung Galaxy A35 5G,sate_klathak,0.4886,gudeg,0.9948
+gudeg_016.png,gudeg,samsung Galaxy A35 5G,sate_klathak,0.4747,gudeg,0.9958
+gudeg_017.png,gudeg,samsung Galaxy A35 5G,sate_klathak,0.5211,gudeg,0.9819
+gudeg_018.png,gudeg,samsung Galaxy A35 5G,sate_klathak,0.5897,gudeg,0.9748
+gudeg_019.png,gudeg,samsung Galaxy A35 5G,sate_klathak,0.6879,gudeg,0.8993
+gudeg_020.png,gudeg,samsung Galaxy A35 5G,sate_klathak,0.6648,gudeg,0.7789
+sate_klathak_001.png,sate_klathak,FUJIFILM X-T30 III,sate_klathak,0.9212,sate_klathak,0.8379
+sate_klathak_002.png,sate_klathak,FUJIFILM X-T30 III,sate_klathak,0.8934,sate_klathak,0.9861
+sate_klathak_003.png,sate_klathak,FUJIFILM X-T30 III,sate_klathak,0.9573,sate_klathak,0.9998
+sate_klathak_004.png,sate_klathak,samsung Galaxy A35 5G,sate_klathak,0.9816,sate_klathak,1.0
+sate_klathak_005.png,sate_klathak,samsung Galaxy A35 5G,sate_klathak,0.9314,sate_klathak,1.0
+sate_klathak_006.png,sate_klathak,samsung Galaxy A35 5G,sate_klathak,0.9817,sate_klathak,1.0
+sate_klathak_007.png,sate_klathak,samsung Galaxy A35 5G,sate_klathak,0.9563,sate_klathak,1.0
+sate_klathak_008.png,sate_klathak,samsung Galaxy A35 5G,sate_klathak,0.9801,sate_klathak,1.0
+sate_klathak_009.png,sate_klathak,samsung Galaxy A35 5G,sate_klathak,0.9636,sate_klathak,1.0
+sate_klathak_010.png,sate_klathak,samsung Galaxy A35 5G,sate_klathak,0.9846,sate_klathak,1.0
+sate_klathak_011.png,sate_klathak,samsung Galaxy A35 5G,sate_klathak,0.984,sate_klathak,1.0
+sate_klathak_012.png,sate_klathak,samsung Galaxy A35 5G,sate_klathak,0.9859,sate_klathak,1.0
+sate_klathak_013.png,sate_klathak,samsung Galaxy A35 5G,sate_klathak,0.9878,sate_klathak,1.0
+sate_klathak_014.png,sate_klathak,samsung Galaxy A35 5G,sate_klathak,0.9485,sate_klathak,1.0
+sate_klathak_015.png,sate_klathak,samsung Galaxy A35 5G,sate_klathak,0.9516,sate_klathak,1.0
+sate_klathak_016.png,sate_klathak,samsung Galaxy A35 5G,sate_klathak,0.9236,sate_klathak,1.0
+sate_klathak_017.png,sate_klathak,samsung Galaxy A35 5G,sate_klathak,0.9246,sate_klathak,1.0
+sate_klathak_018.png,sate_klathak,samsung Galaxy A35 5G,sate_klathak,0.9507,sate_klathak,1.0
+sate_klathak_019.png,sate_klathak,samsung Galaxy A35 5G,sate_klathak,0.9452,sate_klathak,1.0
+sate_klathak_020.png,sate_klathak,samsung Galaxy A35 5G,sate_klathak,0.8274,sate_klathak,0.9996

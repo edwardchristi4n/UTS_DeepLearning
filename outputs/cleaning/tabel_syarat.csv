@@ -1,0 +1,8 @@
+syarat,jumlah,lulus
+bakpia: train+val >= 100,104,True
+bakpia: test >= 20,21,True
+gudeg: train+val >= 100,104,True
+gudeg: test >= 20,20,True
+sate_klathak: train+val >= 100,119,True
+sate_klathak: test >= 20,20,True
+total >= 360,388,True

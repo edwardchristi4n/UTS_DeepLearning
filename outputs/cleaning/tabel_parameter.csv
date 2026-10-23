@@ -1,0 +1,9 @@
+parameter,nilai,keterangan
+MAX_SIDE,800,sisi terpanjang setelah resize (px)
+MIN_SIDE,128,sisi terpendek minimal (px)
+PHASH_DUP,8,jarak pHash maksimal untuk duplikat
+PHASH_GROUP,14,jarak pHash maksimal untuk satu grup
+BURST_GAP_SEC,10,jeda jepretan beruntun per perangkat (detik)
+VAL_FRAC,0.2,proporsi validation dari dev
+TEST_PER_CLASS,20,jumlah minimal test per kelas
+SEED,42,seed pengacakan

@@ -1,0 +1,4 @@
+konfigurasi,epoch_dijalankan,epoch_terbaik,val_loss_terbaik,epoch_model_dipakai,val_loss_model,val_acc_model,train_loss_model,waktu_detik
+"A. LR tetap, tanpa callback",120,120,0.1798,120,0.1798,0.9661,0.089,381.0
+B. LR tetap + EarlyStopping,100,85,0.1653,85,0.1653,0.9322,0.1396,326.3
+Model utama (LR turun + EarlyStopping),85,70,0.1917,70,0.1917,0.9322,0.2613,251.3

@@ -1,0 +1,15 @@
+# Cleaning dataset (01_dataCleaning.ipynb)
+pillow>=10.0
+pillow-heif>=0.16
+imagehash>=4.3
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+
+# Menjalankan Model (02_modelling.ipynb)
+# Modelling (TensorFlow/Keras)
+tensorflow>=2.16
+scikit-learn>=1.3
+
+# Menjalankan notebook di VS Code (kernel)
+ipykernel>=6.25

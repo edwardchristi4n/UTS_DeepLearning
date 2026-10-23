@@ -1,0 +1,13 @@
+{
+  "class_names": [
+    "bakpia",
+    "gudeg",
+    "sate_klathak"
+  ],
+  "input": "citra RGB 224x224, piksel 0-255 (normalisasi sudah di dalam model)",
+  "tensorflow": "2.21.0",
+  "models": {
+    "Custom CNN": "custom_cnn_best.keras",
+    "MobileNetV2": "mobilenetv2_best.keras"
+  }
+}

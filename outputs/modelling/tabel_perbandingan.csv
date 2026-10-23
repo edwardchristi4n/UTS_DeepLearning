@@ -1,0 +1,14 @@
+,Custom CNN,MobileNetV2
+Total parameter,"249,283","2,261,827"
+Parameter dilatih,"249,283","3,843 (fase 1) / 1,865,283 (fase 2)"
+Epoch dijalankan / terbaik,85 / 70,60 / 58
+Waktu training (detik),251.3,211.2
+Waktu inferensi (ms/citra),4.7,25.9
+Val accuracy (epoch terbaik),0.9322,1.0000
+Test accuracy,0.8361,0.9836
+Precision (macro),0.8807,0.9841
+Recall (macro),0.8341,0.9841
+F1-score (macro),0.8261,0.9837
+Recall bakpia,0.9524,0.9524
+Recall gudeg,0.5500,1.0000
+Recall sate_klathak,1.0000,1.0000
