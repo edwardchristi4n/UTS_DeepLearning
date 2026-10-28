@@ -47,8 +47,8 @@ UTS/
 │   │   ├── contoh_citra_per_kelas.png
 │   │   └── grids/                   # contact sheet per kelas & split, contoh: bakpia_test.jpg
 │   └── modelling/                   # keluaran notebook 02
-│       ├── custom_cnn_best.keras
-│       ├── mobilenetv2_best.keras
+│       ├── custom_cnn_best.keras    # Model terbaik dari Custom CNN 
+│       ├── mobilenetv2_best.keras   # Model terbaik dari MobileNetV2
 │       ├── model_info.json          # urutan kelas, format input, versi TensorFlow
 │       ├── history_custom_cnn.csv
 │       ├── history_mobilenetv2.csv
