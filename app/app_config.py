@@ -128,7 +128,9 @@ section[data-testid="stSidebar"]{background:var(--surface);border-right:1px soli
 [data-testid="stSidebarNavLink"]:hover span{color:var(--primary);}
 .sidebar-note{margin-top:.9rem;padding:1.1rem .4rem .3rem;border-top:1px solid var(--line);color:var(--muted);font-size:.78rem;line-height:1.6;}
 
-.block-container,[data-testid="stMainBlockContainer"]{max-width:1180px;padding-top:1.5rem;padding-bottom:4rem;}
+.block-container,[data-testid="stMainBlockContainer"]{
+  max-width:1180px;padding-top:5rem;padding-bottom:4rem;
+}
 
 .page-head h1{font-size:2rem;font-weight:800;letter-spacing:-.025em;margin:0 0 .3rem;}
 .page-head p{color:var(--muted);font-size:.98rem;margin:0 0 1.6rem;}
@@ -138,7 +140,12 @@ section[data-testid="stSidebar"]{background:var(--surface);border-right:1px soli
 .hero{
   position:relative;overflow:hidden;border-radius:26px;color:#fff;
   background:linear-gradient(135deg,#241C15 0%,#3A281A 55%,#5A341C 100%);
-  padding:3.2rem 3rem 2.9rem;box-shadow:0 18px 44px rgba(32,27,21,.18);
+  padding:3rem 3rem 2.5rem;box-shadow:0 18px 44px rgba(32,27,21,.18);
+  margin-bottom:.6rem;
+}
+@media(max-width:640px){
+  .hero{padding:2.2rem 1.7rem 1.9rem;}
+  .hero h1{font-size:2.1rem;}
 }
 .hero::after{
   content:"";position:absolute;right:-110px;top:-110px;width:340px;height:340px;border-radius:50%;
